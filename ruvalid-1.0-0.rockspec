@@ -1,7 +1,8 @@
 package = "ruvalid"
 version = "1.0-0"
 source = {
-   url = "git+https://www.github.com/code-nuage/ruvalid"
+   url = "git+https://www.github.com/code-nuage/ruvalid",
+   tag = "1.0-0"
 }
 description = {
    homepage = "https://www.github.com/code-nuage/ruvalid",
